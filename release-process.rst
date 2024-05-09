@@ -1,22 +1,22 @@
 ===============
-Release Process
+Sürüm Süreci
 ===============
 
 .. contents::
    :depth: 2
 
-:From: https://wiki.php.net/rfc/releaseprocess
-:Updated by: https://wiki.php.net/rfc/release_cycle_update
+:Kaynak: https://wiki.php.net/rfc/releaseprocess
+:Güncellenen: https://wiki.php.net/rfc/release_cycle_update
 
-This document outlines the release cycles of the PHP language.
+Bu belge, PHP dilinin sürüm döngülerini açıklar.
 
-Release Cycle
+Sürüm Döngüsü
 =============
 
-Roughly:
+Kabaca:
 
-- Yearly release cycle
-- 4 years release life cycle
+- Yıllık sürüm döngüsü
+- 4 yıllık sürüm yaşam döngüsü
 
   - 2 years bug fixes only
   - 2 years security fixes only
